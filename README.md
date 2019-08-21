@@ -12,7 +12,7 @@ git pull
 
 ## 修改程式碼
 
-所有修改請在 CYCU_MAD3_Django/底下進行
+所有修改請在 CYCU_React-Native_Qrcode/底下進行
 
 ```shell
 //加入修改的所有檔案
